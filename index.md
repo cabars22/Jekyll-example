@@ -1,7 +1,7 @@
 ---
 layout: home 
 title: Seashell Shores Spa and Resort
-excerpt: This is a test excerpt
+excerpt: Great selection of activites and fun of everyone
 header:
   overlay_image: /assets/images/beach1.jpg
   overlay_filter: rgba(128, 225, 219, 0.5)
@@ -13,4 +13,4 @@ header:
 
 ---
 
-# This is my home page
+# Recently at Seashell Shores
